@@ -1,0 +1,4 @@
+venv
+
+open_source_models_with_huggingface/settings/__pycache__
+open_source_models_with_huggingface/settings/.env
